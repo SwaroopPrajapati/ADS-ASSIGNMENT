@@ -29,5 +29,7 @@ Input : Word from keyboard.
  4) CrosswordPanel class is used to setup crossword, the setCrossword() method take matrix as input and show this matrix in crossword form
     using JTextField and highlighting the word using setForeground() method.
     
+ *NOTE* :- Assignment.java is the main file which is supposed to run.   
+    
 *Contributor* :-
  Swaroop Prajapati
