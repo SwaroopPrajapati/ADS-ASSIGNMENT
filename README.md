@@ -16,7 +16,7 @@ Input : Word from keyboard.
  1) findElement(int rowEle, int colEle, int inputLength) :-
     
     This method takes number of column and row as an input and the last index of input "word" (which is given by user). Then it tries to 
-    find the last character of input word with characters stored in the matrix. Once it find out the character then it traverse to left and     upward in matrix to match the remaining characters by calling functions findUp() and findSide().
+    find the last character of input word with characters stored in the matrix. Once it find out the character then it traverse to left and     upward in matrix to match the remaining characters by calling functions findUp() and findSide() if it doesn't found the last character     of input then it recursively traverse the matrix until it find the last character of input.
     
  2) findUp(int p, int q, int inputLength) :-
     
