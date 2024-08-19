@@ -2,7 +2,7 @@
 
 *Problem Definition*:
 
-A matrix of size[nxn] is to populated with random characters.A "word" is to be searched in the matrix. The search process starts from any location in the matrix and generate a path consisting of "word" spelling. This path should be continuous and three possible directions
+A matrix of size[nxn] is to populated with random characters. A "word" is to be searched in the matrix. The search process starts from any location in the matrix and generate a path consisting of "word" spelling. This path should be continuous and three possible directions
 allowed are:Up-Side-Down.
 Input : Word from keyboard.
 
